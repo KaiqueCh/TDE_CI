@@ -1,0 +1,12 @@
+{
+  "name": "tde-ci",
+  "version": "1.0.0",
+  "description": "Projeto simples com CI usando GitHub Actions",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint script.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
