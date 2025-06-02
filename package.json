@@ -4,9 +4,12 @@
   "description": "Projeto simples com CI usando GitHub Actions",
   "main": "script.js",
   "scripts": {
-    "lint": "eslint script.js"
+    "lint": "eslint script.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d"
   },
   "devDependencies": {
-    "eslint": "^8.0.0"
+    "eslint": "^8.0.0",
+    "gh-pages": "^6.3.0"
   }
 }

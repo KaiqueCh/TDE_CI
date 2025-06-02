@@ -11,5 +11,16 @@ Este projeto foi desenvolvido para a TDE 02. Ele consiste em uma aplicação web
   - Valida o código JavaScript com ESLint.
   - Gera o build (simples).
 
+## Estrutura de Dados
+📁 projeto/
+├── index.html
+├── style.css
+├── script.js
+├── package.json
+├── .github/
+│ └── workflows/
+│ └── ci.yml
+└── README.md
+
 ## Deploy
 O projeto é publicado automaticamente via GitHub Pages.
