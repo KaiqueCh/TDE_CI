@@ -27,5 +27,6 @@ O projeto é publicado automaticamente via GitHub Pages.
 
 
 ## Integrantes
-Kaique Chaves Silva \n
-Maria Eduarda PInto Ramos
+Kaique Chaves Silva
+
+Maria Eduarda Pinto Ramos
