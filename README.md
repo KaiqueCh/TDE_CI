@@ -24,3 +24,7 @@ Este projeto foi desenvolvido para a TDE 02. Ele consiste em uma aplicação web
 
 ## Deploy
 O projeto é publicado automaticamente via GitHub Pages.
+
+
+## Integrantes
+Kaique Chaves Silva
