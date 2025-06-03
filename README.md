@@ -31,3 +31,4 @@ Kaique Chaves Silva,
 Rodolfo Sousa da Macena,
 Maria Eduarda Pinto Ramos,
 Camila Costney de Moura Silva, 
+Winicius Lira Passaia.
