@@ -27,4 +27,3 @@ O projeto é publicado automaticamente via GitHub Pages.
 
 
 ## Integrantes
-Kaique Chaves Silva, Rodolfo Sousa da Macena, Maria Eduarda Pinto Ramos, Camila Costney de Moura Silva, Winicius Lira Passaia.
